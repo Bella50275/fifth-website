@@ -1,0 +1,30 @@
+table,th,td{
+
+    border:1px solid rgb(0, 0, 0);
+background-color: lightpink;
+}
+
+body{
+    background-image: url(https://i.etsystatic.com/41916813/r/il/8bce09/4766797285/il_570xN.4766797285_9w73.jpg
+    );
+    background-position: top; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+    .box{
+        height: 80px;
+        width: 80px;
+        background: pink;
+        margin: 15px;
+    }
+
+
+
+   
+
+
+  
+
+
+
+
